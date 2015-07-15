@@ -1,6 +1,6 @@
 <?php
 
-    echo "Funciona con autoUpload";
+    echo "Funciona con autoUpload 2";
 
 
 
