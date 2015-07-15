@@ -1,6 +1,6 @@
 <?php
 
-    echo "Funciona con autoUpload 2";
+    echo "Funciona con autoUpload desde rama: prueba_1";
 
 
 
